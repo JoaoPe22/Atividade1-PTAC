@@ -1,0 +1,28 @@
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #f98113;
+  height: auto;
+  width: 100vw;
+  color: #fff;
+}
+
+.footercontent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.footercontent2 {
+  display: flex;
+  align-items: center;
+}
+
+.footercontent2 h2 {
+  font-weight: bold;
+}
