@@ -14,10 +14,11 @@ export default function Footer() {
 
         <Link href="https://ead.ifms.edu.br/">
         <Image
+          className={styles.map}
           width={130}
           height={100}
           src={
-            "https://www.plataformaead.net/wp-content/uploads/2019/04/O-Moodle-e-gratuito.png"
+            "https://ead.ifms.edu.br/theme/moove/pix/moodle-logo-white.png"
           }
         />
         </Link>
